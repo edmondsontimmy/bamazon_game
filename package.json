@@ -1,0 +1,22 @@
+{
+  "name": "bamazon_game",
+  "version": "1.0.0",
+  "description": "node modules for bamazon game",
+  "main": "bamazon_customer.js",
+  "scripts": {
+    "test": "node bamazon_customer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edmondsontimmy/bamazon_game.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Timothy Edmondson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edmondsontimmy/bamazon_game/issues"
+  },
+  "homepage": "https://github.com/edmondsontimmy/bamazon_game#readme"
+}
